@@ -21,3 +21,4 @@ scenarios:
 modules:
   cloud:
     test: TaurusExecution
+    launch-existing-test: true
