@@ -21,4 +21,7 @@ scenarios:
 modules:
   cloud:
     test: TaurusExecution
+    account: 117582
+    workspace: 109682
+    project: 333676
     launch-existing-test: true
