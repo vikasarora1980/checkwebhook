@@ -20,8 +20,4 @@ scenarios:
         
 modules:
   cloud:
-    test: TaurusExecution
-    account: 117582
-    workspace: 109682
-    project: 333676
-    launch-existing-test: true
+    test: https://a.blazemeter.com/app/#/accounts/117582/workspaces/109682/projects/333676/tests/6414126
